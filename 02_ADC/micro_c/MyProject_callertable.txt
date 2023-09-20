@@ -1,0 +1,4 @@
+main
+	Delay_1sec
+	ADC_Read
+		Delay_22us
